@@ -1,4 +1,4 @@
 # ESRGAN-638
 Term Project for GNR-638
 
-ESRGAN is based on SRGAN model with a few changes in it. This model is a lot deeper than the SRGAN.
+This is my implementation of Enhanced Super-Resolution GAN with a few changes to eliminate checkerboard artifacts. This code includes the trained weights for repoducibility. 
